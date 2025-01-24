@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Conda/Mamba env folders
+env/
+.venv/
+*.sh
+
+# Local data
+data/

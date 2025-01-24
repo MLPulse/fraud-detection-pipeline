@@ -1,0 +1,9 @@
+name: fraud-detect-pip-env
+dependencies:
+  - python=3.9
+  - pip:
+    - pandas==1.4.4
+    - numpy==1.23.3
+    - scikit-learn==1.1.2
+    - xgboost==1.6.2
+    - mlflow==1.27.0
